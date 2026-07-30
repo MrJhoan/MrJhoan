@@ -9,7 +9,7 @@ I enjoy building practical software solutions, working with backend technologies
 - 🎓 Systems Engineer from Universidad Industrial de Santander (UIS)
 - 💻 Interested in backend development, software engineering, and IT infrastructure
 - ☕ Building full-stack applications with Java, Spring Boot, Angular, and PostgreSQL
-- 🐍 Developing AI-assisted prototypes and automation workflows with Python
+- 🐍 Developing computer vision and AI prototypes with Python
 - 🌐 Experience building academic web applications and database-driven systems
 - 🖧 Trained in computer networking and Cisco device configuration
 - 🔐 Familiar with cybersecurity fundamentals, threat analysis, and network defense
