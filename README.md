@@ -1,53 +1,86 @@
-# Hi, I'm Jhoan
+# Hi, I'm Jhoan 👋
 
-Systems Engineer from Universidad Industrial de Santander (UIS), focused on software development, computer networks, cybersecurity fundamentals, and web technologies.
+Systems Engineer from Universidad Industrial de Santander (UIS), focused on full-stack software development, computer networks, cybersecurity fundamentals, and web technologies.
 
 I enjoy building practical software solutions, working with backend technologies, and understanding how applications, databases, devices, and networks communicate.
 
 ## About Me
 
-- 🎓 Systems Engineer from Universidad Industrial de Santander
+- 🎓 Systems Engineer from Universidad Industrial de Santander (UIS)
 - 💻 Interested in backend development, software engineering, and IT infrastructure
-- 🐍 Building applications and prototypes with Python
-- 🌐 Experience developing academic web and database-driven projects
+- ☕ Building full-stack applications with Java, Spring Boot, Angular, and PostgreSQL
+- 🐍 Developing AI-assisted prototypes and automation workflows with Python
+- 🌐 Experience building academic web applications and database-driven systems
 - 🖧 Trained in computer networking and Cisco device configuration
-- 🔐 Familiar with cybersecurity principles, threat analysis, and network defense
+- 🔐 Familiar with cybersecurity fundamentals, threat analysis, and network defense
 - 📍 Based in Colombia
-- 🌎 Spanish native speaker with advanced English proficiency
+- 🌎 Native Spanish speaker with advanced English proficiency
 
 ## Technologies
 
 ### Programming Languages
-`Python` · `Java` · `JavaScript` · `TypeScript` · `PHP`
+
+- Python
+- Java
+- JavaScript
+- TypeScript
+- PHP
 
 ### Frameworks and Web Development
-`Spring Boot` · `Angular` · `Django` · `HTML` · `CSS`
+
+- Spring Boot
+- Angular
+- Django
+- HTML
+- CSS
 
 ### Databases
-`PostgreSQL` · `SQL` · `Relational Database Design`
 
-### Development Tools
-`Git` · `GitHub` · `Visual Studio Code` · `Maven` · `REST APIs`
+- PostgreSQL
+- SQL
+- Relational Database Design
+
+### Backend and Development Tools
+
+- Git
+- GitHub
+- Visual Studio Code
+- Maven
+- REST APIs
 
 ### Networking and Cybersecurity
-`Cisco Packet Tracer` · `TCP/IP` · `Network Protocols` · `Network Devices` · `Basic Cisco Configuration` · `Cybersecurity Fundamentals`
+
+- Cisco Packet Tracer
+- TCP/IP
+- Network Protocols
+- Network Devices
+- Basic Cisco Configuration
+- Cybersecurity Fundamentals
 
 ### Computer Science Fundamentals
-`Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Software Engineering`
+
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Software Engineering
 
 ## Featured Projects
 
 ### Project Vigía
 
-Intelligent video-surveillance platform created to analyze video input, identify potentially dangerous events, and generate timely alerts for human review.
+Intelligent video-surveillance platform created to analyze video input, detect criminal events in progress, and generate timely alerts for human review.
 
-I conceived the original idea and independently developed its core real-time detection prototype. I implemented the complete workflow that sends video to an AI model, recognizes a potentially criminal event in progress, and activates an audible alert for immediate review. I later helped turn the concept into a broader collaborative web platform with Juan Rincón, contributing its logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
+I conceived the original idea and independently developed its core real-time detection prototype. I implemented the complete workflow that sends video to an AI model, detects a criminal event in progress, and activates an audible alert for immediate review.
 
-**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Python, YOLOv8, OpenCV
+I later helped turn the concept into a broader collaborative web platform with Juan Rincón, contributing its logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Python, YOLOv8, and OpenCV
 
 **My role:** Project creator, detection and alert workflow developer, and frontend contributor
 
-[View collaborative platform](https://github.com/MrJhoan/PROJECT_VIGIA) · [View my original detection prototype](https://github.com/MrJhoan/Project-vigia/tree/prototipo-V3.0) · [View live application](https://projectvigia.vercel.app)
+[View collaborative platform](https://github.com/MrJhoan/PROJECT_VIGIA) · [View my original detection prototype](https://github.com/MrJhoan/Project-vigia/tree/prototipo-V3.0) · [View live application](https://projectvigia.vercel.app/)
+
+---
 
 ### UIS Lunch
 
@@ -59,18 +92,23 @@ The system includes student and administrator interfaces, authentication, meal-c
 
 **Areas:** Full-stack development, relational databases, QR-code generation, process automation, and administrative reporting
 
-[View repository](https://github.com/MrJhoan/uis-lunch) · [View live application](https://uis-lunch.vercel.app)
+[View repository](https://github.com/MrJhoan/uis-lunch) · [View live application](https://uis-lunch.vercel.app/)
+
+---
 
 ### Intervelox
 
 Hotel discovery and booking prototype for Colombia, built around time-limited flash deals with substantial discounts released during short promotional windows.
 
-The original 2022 academic implementation combined a hotel catalog, location search, an interactive map, contact registration, and a flash-offer concept using PHP and MySQL. The reconstructed public demo adds working destination filters, a live deal countdown, reservation calculation, confirmation references, locally stored reservation history, and responsive design.
+The original 2022 academic implementation combined a hotel catalog, location search, an interactive map, contact registration, and a flash-offer concept using PHP and MySQL.
 
-**Technologies:** PHP, MySQL, JavaScript, HTML, CSS, Leaflet, OpenStreetMap, and Vercel Functions  
+The reconstructed public demo adds working destination filters, an interactive hotel map, delayed flash-offer notifications, a live deal countdown, reservation calculations, confirmation references, locally stored reservation history, and responsive design.
+
+**Technologies:** PHP, MySQL, JavaScript, HTML, CSS, Leaflet, OpenStreetMap, and Vercel Functions
+
 **Areas:** Product ideation, hotel search, flash-sale workflows, map integration, form handling, relational databases, and responsive web development
 
-[View repository](https://github.com/MrJhoan/intervelox) · [View live application](https://intervelox.vercel.app)
+[View repository](https://github.com/MrJhoan/intervelox) · [View live application](https://intervelox.vercel.app/)
 
 ## Cisco Networking Academy Credentials
 
@@ -86,8 +124,9 @@ The original 2022 academic implementation combined a hotel catalog, location sea
 - Software architecture
 - Network security
 - Database design
-- Automated testing and clean code
+- Automated testing
+- Clean code practices
 
 ## Contact
 
-· [Email](mailto:Jhoansegare2002@gmail.com)
+📧 [Email me](mailto:jhoansegare2002@gmail.com)
