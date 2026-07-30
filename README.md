@@ -59,7 +59,7 @@ The system includes student and administrator interfaces, authentication, meal-c
 
 **Areas:** Full-stack development, relational databases, QR-code generation, process automation, and administrative reporting
 
-[View repository](https://github.com/MrJhoan/uis-lunch)
+[View repository](https://github.com/MrJhoan/uis-lunch) · [View live application](https://uis-lunch.vercel.app)
 
 ### Intervelox
 
