@@ -43,13 +43,13 @@ I enjoy building practical software solutions, working with backend technologies
 
 Intelligent video-surveillance platform created to analyze video input, identify potentially dangerous events, and generate timely alerts for human review.
 
-I conceived the original idea and helped turn it into a collaborative software project with Juan José Rincón Méndez. My main contributions include the AI-assisted detection and alert workflow, one-time audible incident alerts, the project logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
+I conceived the original idea and independently developed its core real-time detection prototype. I implemented the complete workflow that sends video to an AI model, recognizes a potentially criminal event in progress, and activates an audible alert for immediate review. I later helped turn the concept into a broader collaborative web platform with Juan José Rincón Méndez, contributing its logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Python, YOLOv8, OpenCV
 
 **My role:** Project creator, detection and alert workflow developer, and frontend contributor
 
-[View repository](https://github.com/MrJhoan/PROJECT_VIGIA) · [View live application](https://projectvigia.vercel.app)
+[View collaborative platform](https://github.com/MrJhoan/PROJECT_VIGIA) · [View my original detection prototype](https://github.com/MrJhoan/Project-vigia/tree/prototipo-V3.0) · [View live application](https://projectvigia.vercel.app)
 
 ### UIS Lunch
 
