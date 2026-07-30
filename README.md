@@ -63,12 +63,14 @@ The system includes student and administrator interfaces, authentication, meal-c
 
 ### Intervelox
 
-Web application prototype for browsing and booking hotel rooms in Colombia, developed as an academic web programming and relational database project.
+Hotel discovery and booking prototype for Colombia, built around time-limited flash deals with substantial discounts released during short promotional windows.
 
-**Technologies:** PHP, SQL, JavaScript, HTML, and CSS  
-**Areas:** Web development and relational databases
+The original 2022 academic implementation combined a hotel catalog, location search, an interactive map, contact registration, and a flash-offer concept using PHP and MySQL. The reconstructed public demo adds working destination filters, a live deal countdown, reservation calculation, confirmation references, locally stored reservation history, and responsive design.
 
-[View repository](https://github.com/MrJhoan/Proyecto-ConBasedeDatos-)
+**Technologies:** PHP, MySQL, JavaScript, HTML, CSS, Leaflet, OpenStreetMap, and Vercel Functions  
+**Areas:** Product ideation, hotel search, flash-sale workflows, map integration, form handling, relational databases, and responsive web development
+
+[View repository](https://github.com/MrJhoan/intervelox) · [View live application](https://intervelox.vercel.app)
 
 ## Cisco Networking Academy Credentials
 
