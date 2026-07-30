@@ -41,12 +41,15 @@ I enjoy building practical software solutions, working with backend technologies
 
 ### Project Vigía
 
-Python prototype designed to detect potentially dangerous events and generate alerts based on the detected event and its confidence level.
+Intelligent video-surveillance platform created to analyze video input, identify potentially dangerous events, and generate timely alerts for human review.
 
-**Technologies:** Python  
-**Areas:** Event detection, alert generation, and external notification integration
+I conceived the original idea and helped turn it into a collaborative software project with Juan José Rincón Méndez. My main contributions include the AI-assisted detection and alert workflow, one-time audible incident alerts, the project logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
 
-[View repository](https://github.com/MrJhoan/Project-vigia)
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Python, YOLOv8, OpenCV
+
+**My role:** Project creator, detection and alert workflow developer, and frontend contributor
+
+[View repository](https://github.com/MrJhoan/PROJECT_VIGIA) · [View live application](https://projectvigia.vercel.app)
 
 ### UIS Lunch
 
@@ -83,3 +86,7 @@ Web application prototype for browsing and booking hotel rooms in Colombia, deve
 - Network security
 - Database design
 - Automated testing and clean code
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jhoan-sebasti%C3%A1n-garc%C3%ADa-reyes-1b014b263/) · [Email](mailto:Jhoansegare2002@gmail.com)
