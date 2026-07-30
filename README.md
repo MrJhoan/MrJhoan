@@ -53,12 +53,13 @@ I conceived the original idea and independently developed its core real-time det
 
 ### UIS Lunch
 
-Academic software project designed to digitize the purchase and delivery process of the Universidad Industrial de Santander student meal program.
+Full-stack academic web application designed to digitize the purchase and delivery process of the Universidad Industrial de Santander student meal program.
 
-The proposed system includes identity validation, meal availability control, digital tokens, notifications, and administrative reports.
+The system includes student and administrator interfaces, authentication, meal-combo management, purchase registration, QR-code generation, notifications, and administrative reports backed by a PostgreSQL database.
 
-**Technologies:** Java and web technologies  
-**Areas:** Software engineering, web development, and process automation
+**Technologies:** Java 17, Spring Boot, Angular, TypeScript, PostgreSQL, Spring Data JPA, REST APIs, Bootstrap, and ZXing
+
+**Areas:** Full-stack development, relational databases, QR-code generation, process automation, and administrative reporting
 
 [View repository](https://github.com/MrJhoan/UISLUNCHMRJHOAN)
 
