@@ -1,4 +1,4 @@
-# Hi, I'm Jhoan G.
+# Hi, I'm Jhoan
 
 Systems Engineer from Universidad Industrial de Santander (UIS), focused on software development, computer networks, cybersecurity fundamentals, and web technologies.
 
