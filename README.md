@@ -43,7 +43,7 @@ I enjoy building practical software solutions, working with backend technologies
 
 Intelligent video-surveillance platform created to analyze video input, identify potentially dangerous events, and generate timely alerts for human review.
 
-I conceived the original idea and independently developed its core real-time detection prototype. I implemented the complete workflow that sends video to an AI model, recognizes a potentially criminal event in progress, and activates an audible alert for immediate review. I later helped turn the concept into a broader collaborative web platform with Juan José Rincón Méndez, contributing its logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
+I conceived the original idea and independently developed its core real-time detection prototype. I implemented the complete workflow that sends video to an AI model, recognizes a potentially criminal event in progress, and activates an audible alert for immediate review. I later helped turn the concept into a broader collaborative web platform with Juan Rincón, contributing its logo and visual identity, frontend customization, navigation, button behavior, and image presentation.
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Python, YOLOv8, OpenCV
 
@@ -89,4 +89,4 @@ Web application prototype for browsing and booking hotel rooms in Colombia, deve
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jhoan-sebasti%C3%A1n-garc%C3%ADa-reyes-1b014b263/) · [Email](mailto:Jhoansegare2002@gmail.com)
+· [Email](mailto:Jhoansegare2002@gmail.com)
