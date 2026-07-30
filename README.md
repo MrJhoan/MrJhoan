@@ -12,7 +12,7 @@ I enjoy building practical software solutions, working with backend technologies
 - 🌐 Experience developing academic web and database-driven projects
 - 🖧 Trained in computer networking and Cisco device configuration
 - 🔐 Familiar with cybersecurity principles, threat analysis, and network defense
-- 📍 Based in Bucaramanga, Colombia
+- 📍 Based in Colombia
 - 🌎 Spanish native speaker with advanced English proficiency
 
 ## Technologies
