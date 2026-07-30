@@ -20,49 +20,27 @@ I enjoy building practical software solutions, working with backend technologies
 
 ### Programming Languages
 
-- Python
-- Java
-- JavaScript
-- TypeScript
-- PHP
+`Python` · `Java` · `JavaScript` · `TypeScript` · `PHP`
 
 ### Frameworks and Web Development
 
-- Spring Boot
-- Angular
-- Django
-- HTML
-- CSS
+`Spring Boot` · `Angular` · `Django` · `HTML` · `CSS`
 
 ### Databases
 
-- PostgreSQL
-- SQL
-- Relational Database Design
+`PostgreSQL` · `SQL` · `Relational Database Design`
 
 ### Backend and Development Tools
 
-- Git
-- GitHub
-- Visual Studio Code
-- Maven
-- REST APIs
+`Git` · `GitHub` · `Visual Studio Code` · `Maven` · `REST APIs`
 
 ### Networking and Cybersecurity
 
-- Cisco Packet Tracer
-- TCP/IP
-- Network Protocols
-- Network Devices
-- Basic Cisco Configuration
-- Cybersecurity Fundamentals
+`Cisco Packet Tracer` · `TCP/IP` · `Network Protocols` · `Network Devices` · `Basic Cisco Configuration` · `Cybersecurity Fundamentals`
 
 ### Computer Science Fundamentals
 
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Software Engineering
+`Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Software Engineering` · `Computer Networks`
 
 ## Featured Projects
 
